@@ -1,0 +1,19 @@
+.breadcrumbspress-integration-code {
+  padding: 15px 20px;
+  margin: 20px 0;
+  font-family: monospace;
+  font-size: 16px;
+  font-weight: bold;
+  border: 1px dashed #555;
+  background: #F8F8F8;
+  color: #000;
+}
+
+.breadcrumbs-examples .breadcrumbs-block-wrapper {
+  border: 1px solid #DDD;
+  padding: 15px;
+  background: #FFF;
+}
+.breadcrumbs-examples .breadcrumbs-block-wrapper li {
+  margin-bottom: 0;
+}

@@ -1,0 +1,15 @@
+.breadcrumbs-auto-wrapper {
+    &.breadcrumbs-wrapper-genesis {
+        clear: both;
+    }
+
+    &.breadcrumbs-wrapper-kadence {
+        width: 100%;
+    }
+
+    &.breadcrumbs-wrapper-generatepress {
+        .breadcrumbs-block-wrapper {
+            padding: var(--breadcrumbspress-base-wrapper-padding);
+        }
+    }
+}

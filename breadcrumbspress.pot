@@ -1,0 +1,1504 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural - Forms: nplurals = INTEGER; plural = EXPRESSION;\n"
+"Project-Id-Version: BreadcrumbsPress Lite\n"
+"POT-Creation-Date: 02/27/2024 07:30:50 PM\n"
+"Language-Team: Milan Petrovic <support@dev4press.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GD i18n 2.8; www.dev4press.com\n"
+
+#: core/admin/panel/Settings.php:19
+msgid "Markup"
+msgstr ""
+
+#: core/admin/panel/Settings.php:21
+msgid "Basic"
+msgstr ""
+
+#: core/admin/panel/Settings.php:23
+msgid "Control markup aspects of the breadcrumbs, including separator for crumbs."
+msgstr ""
+
+#: core/admin/panel/Settings.php:26
+msgid "Tweaks"
+msgstr ""
+
+#: core/admin/panel/Settings.php:28
+msgid "Control various other things related to displaying the breadcrumbs."
+msgstr ""
+
+#: core/admin/panel/Settings.php:31
+msgid "Integration"
+msgstr ""
+
+#: core/admin/panel/Settings.php:33
+msgid "Control integration of the plugin with support for various themes and frameworks."
+msgstr ""
+
+#: core/admin/panel/Settings.php:36
+msgid "Styling"
+msgstr ""
+
+#: core/admin/panel/Settings.php:38
+msgid "Control visual elements, including sizes and colors for the breadcrumbs."
+msgstr ""
+
+#: core/admin/panel/Settings.php:41
+msgid "Advanced"
+msgstr ""
+
+#: core/admin/panel/Settings.php:43
+msgid "Control various advanced settings related to the breadcrumbs and plugin."
+msgstr ""
+
+#: core/admin/panel/Settings.php:46
+msgid "Controls"
+msgstr ""
+
+#: core/admin/panel/Settings.php:48
+msgid "Breadcrumbs"
+msgstr ""
+
+#: core/admin/panel/Settings.php:50
+msgid "Basic settings for the breadcrumbs and special crumbs markup."
+msgstr ""
+
+#: core/admin/panel/Settings.php:53
+msgid "Visibility"
+msgstr ""
+
+#: core/admin/panel/Settings.php:55
+msgid "Control types of pages where the breadcrumbs will be visible."
+msgstr ""
+
+#: core/admin/panel/Settings.php:58
+msgid "Main Paths"
+msgstr ""
+
+#: core/admin/panel/Settings.php:60
+msgid "Main breadcrumbs path for some types of pages."
+msgstr ""
+
+#: core/admin/panel/Settings.php:66
+msgid "Titles"
+msgstr ""
+
+#: core/admin/panel/Settings.php:68
+msgid "Settings related to the individual crumbs titles format. If any of the titles is left empty, it will use auto generated value."
+msgstr ""
+
+#: core/admin/panel/Settings.php:74
+msgid "Display"
+msgstr ""
+
+#: core/admin/panel/Settings.php:76
+msgid "Settings related to the individual crumbs display override format. If any of the display values is left empty, it will use title value. Allowed use of HTML."
+msgstr ""
+
+#: core/admin/Plugin.php:39
+msgid "Install"
+msgstr ""
+
+#: core/admin/Plugin.php:42
+msgid "Before you continue, make sure plugin installation was successful."
+msgstr ""
+
+#: core/admin/Plugin.php:46
+msgid "Update"
+msgstr ""
+
+#: core/admin/Plugin.php:49
+msgid "Before you continue, make sure plugin was successfully updated."
+msgstr ""
+
+#: core/admin/Plugin.php:56
+msgid "Overview"
+msgstr ""
+
+#: core/admin/Plugin.php:61
+msgid "About"
+msgstr ""
+
+#: core/admin/Plugin.php:66
+msgid "Settings"
+msgstr ""
+
+#: core/admin/Plugin.php:71
+msgid "Tools"
+msgstr ""
+
+#: core/admin/Settings.php:34
+#: core/admin/Settings.php:167
+msgid "Theme"
+msgstr ""
+
+#: core/admin/Settings.php:34
+msgid "You are using %s theme"
+msgstr ""
+
+#: core/admin/Settings.php:35
+#: core/admin/Settings.php:181
+#: core/admin/Settings.php:187
+#: core/admin/Settings.php:193
+#: core/admin/Settings.php:199
+#: core/admin/Settings.php:205
+#: core/admin/Settings.php:211
+#: core/admin/Settings.php:217
+msgid "Location / Action"
+msgstr ""
+
+#: core/admin/Settings.php:39
+#: forms/content-dashboard-status.php:8
+msgid "Error"
+msgstr ""
+
+#: core/admin/Settings.php:39
+#: forms/content-dashboard-integration.php:20
+msgid "The theme you are using is not supported for automatic integration."
+msgstr ""
+
+#: core/admin/Settings.php:39
+msgid "If you think that you are using one of the supported themes, please change the Integration option and choose your theme manually."
+msgstr ""
+
+#: core/admin/Settings.php:40
+msgid "Themes"
+msgstr ""
+
+#: core/admin/Settings.php:40
+msgid "The currently supported themes are: %s."
+msgstr ""
+
+#: core/admin/Settings.php:47
+msgid "Breadcrumbs Separator"
+msgstr ""
+
+#: core/admin/Settings.php:54
+msgid "Type"
+msgstr ""
+
+#: core/admin/Settings.php:58
+#: core/admin/Settings.php:355
+#: core/admin/Settings.php:361
+#: core/admin/Settings.php:723
+#: core/admin/Settings.php:729
+#: core/admin/Settings.php:910
+#: core/admin/Settings.php:916
+#: core/admin/Settings.php:1080
+msgid "Icon"
+msgstr ""
+
+#: core/admin/Settings.php:64
+#: core/admin/Settings.php:1081
+msgid "ASCII Icon"
+msgstr ""
+
+#: core/admin/Settings.php:70
+#: core/admin/Settings.php:1082
+msgid "Character"
+msgstr ""
+
+#: core/admin/Settings.php:81
+msgid "JSON-LD Rich Snippets"
+msgstr ""
+
+#: core/admin/Settings.php:88
+msgid "Include snippets"
+msgstr ""
+
+#: core/admin/Settings.php:88
+msgid "Rich Snippet version of the breadcrumbs are highly recommended, because search engines can use them to better understand your website structure and hierarchy, and show that throguh search engine results."
+msgstr ""
+
+#: core/admin/Settings.php:96
+msgid "HTML Wrapper Format"
+msgstr ""
+
+#: core/admin/Settings.php:103
+msgid "List Type"
+msgstr ""
+
+#: core/admin/Settings.php:103
+msgid "Choose ordered or unordered list types. It is is just HTML tag used, it has no other effect on the markup."
+msgstr ""
+
+#: core/admin/Settings.php:109
+msgid "Additional Tweaks"
+msgstr ""
+
+#: core/admin/Settings.php:112
+msgid "Titles Normalization"
+msgstr ""
+
+#: core/admin/Settings.php:116
+msgid "Normalize titles"
+msgstr ""
+
+#: core/admin/Settings.php:116
+msgid "Automatically pass all crumbs titles through normalization process and change the crumb title case."
+msgstr ""
+
+#: core/admin/Settings.php:124
+msgid "Integration Control"
+msgstr ""
+
+#: core/admin/Settings.php:127
+msgid "Method"
+msgstr ""
+
+#: core/admin/Settings.php:131
+#: core/admin/Settings.php:235
+msgid "Integrate"
+msgstr ""
+
+#: core/admin/Settings.php:139
+msgid "Action"
+msgstr ""
+
+#: core/admin/Settings.php:149
+msgid "Action Name"
+msgstr ""
+
+#: core/admin/Settings.php:150
+msgid "Action Priority"
+msgstr ""
+
+#: core/admin/Settings.php:151
+msgid "Extra Wrapper CSS class"
+msgstr ""
+
+#: core/admin/Settings.php:155
+msgid "Detected Theme"
+msgstr ""
+
+#: core/admin/Settings.php:177
+msgid "Theme or framework in use"
+msgstr ""
+
+#: core/admin/Settings.php:177
+msgid "Integration has been done based on the default, unmodified themes listed here, tested with the last version of the theme available at the time of latest plugin update. There is no guarantee that this integration will work, and in some cases, it might require additional styling to adjust the breadcrumbs to the theme."
+msgstr ""
+
+#: core/admin/Settings.php:228
+msgid "Only Rich Snippet"
+msgstr ""
+
+#: core/admin/Settings.php:235
+msgid "This method will be run inside the page HEAD tag before the page content is displayed. This doesn't affect theme integration, but it can be useful if you want to include breadcrumbs rich snippet on the page only without actually rendering breadcrumbs control."
+msgstr ""
+
+#: core/admin/Settings.php:243
+msgid "Basic Breadcrumbs block styling"
+msgstr ""
+
+#: core/admin/Settings.php:250
+msgid "Base Font Size"
+msgstr ""
+
+#: core/admin/Settings.php:251
+msgid "Base Line Height"
+msgstr ""
+
+#: core/admin/Settings.php:257
+msgid "Breadcrumbs wrapper styling"
+msgstr ""
+
+#: core/admin/Settings.php:264
+msgid "Padding"
+msgstr ""
+
+#: core/admin/Settings.php:270
+msgid "Additional Breadcrumbs block styling"
+msgstr ""
+
+#: core/admin/Settings.php:277
+msgid "Margins around Separator"
+msgstr ""
+
+#: core/admin/Settings.php:278
+msgid "Block Alignment"
+msgstr ""
+
+#: core/admin/Settings.php:279
+msgid "Link Decoration"
+msgstr ""
+
+#: core/admin/Settings.php:287
+msgid "Disable Third Party Breadcrumbs"
+msgstr ""
+
+#: core/admin/Settings.php:294
+#: core/admin/Settings.php:934
+msgid "WooCommerce"
+msgstr ""
+
+#: core/admin/Settings.php:295
+#: core/admin/Settings.php:747
+#: core/admin/Settings.php:764
+#: core/admin/Settings.php:781
+msgid "bbPress"
+msgstr ""
+
+#: core/admin/Settings.php:301
+msgid "Breadcrumbs titles and display override"
+msgstr ""
+
+#: core/admin/Settings.php:308
+msgid "Override Titles"
+msgstr ""
+
+#: core/admin/Settings.php:308
+msgid "New settings panel will be added where you can set titles for various breadcrumb types."
+msgstr ""
+
+#: core/admin/Settings.php:309
+msgid "Override Display"
+msgstr ""
+
+#: core/admin/Settings.php:309
+msgid "New settings panel will be added where you can set display variants for various breadcrumb types. If empty, display value will be equal to title."
+msgstr ""
+
+#: core/admin/Settings.php:317
+msgid "Home Breadcrumb"
+msgstr ""
+
+#: core/admin/Settings.php:324
+msgid "Include Home"
+msgstr ""
+
+#: core/admin/Settings.php:325
+msgid "Home URL"
+msgstr ""
+
+#: core/admin/Settings.php:325
+msgid "If empty, website default URL will be used."
+msgstr ""
+
+#: core/admin/Settings.php:329
+#: core/admin/Settings.php:354
+#: core/admin/Settings.php:713
+#: core/admin/Settings.php:722
+#: core/admin/Settings.php:900
+#: core/admin/Settings.php:909
+msgid "Title"
+msgstr ""
+
+#: core/admin/Settings.php:333
+#: core/admin/Settings.php:353
+#: core/admin/Settings.php:1149
+msgid "Home"
+msgstr ""
+
+#: core/admin/Settings.php:334
+msgid "Website Title"
+msgstr ""
+
+#: core/admin/Settings.php:335
+#: core/admin/Settings.php:340
+msgid "Custom Title"
+msgstr ""
+
+#: core/admin/Settings.php:340
+msgid "If empty, default value 'Home' will be used."
+msgstr ""
+
+#: core/admin/Settings.php:349
+msgid "First crumb display"
+msgstr ""
+
+#: core/admin/Settings.php:356
+#: core/admin/Settings.php:724
+#: core/admin/Settings.php:911
+msgid "HTML"
+msgstr ""
+
+#: core/admin/Settings.php:367
+#: core/admin/Settings.php:735
+#: core/admin/Settings.php:922
+msgid "Custom HTML"
+msgstr ""
+
+#: core/admin/Settings.php:367
+#: core/admin/Settings.php:735
+#: core/admin/Settings.php:922
+msgid "Allowed use of HTML."
+msgstr ""
+
+#: core/admin/Settings.php:378
+msgid "Post Types Hierarchy"
+msgstr ""
+
+#: core/admin/Settings.php:389
+msgid "Taxonomies Hierarchy"
+msgstr ""
+
+#: core/admin/Settings.php:402
+#: core/admin/Settings.php:468
+#: core/admin/Settings.php:535
+msgid "WordPress Home"
+msgstr ""
+
+#: core/admin/Settings.php:409
+msgid "Home or Front Page"
+msgstr ""
+
+#: core/admin/Settings.php:410
+#: core/admin/Settings.php:477
+#: core/admin/Settings.php:543
+#: core/admin/Settings.php:1179
+msgid "Posts Page"
+msgstr ""
+
+#: core/admin/Settings.php:416
+#: core/admin/Settings.php:483
+#: core/admin/Settings.php:549
+msgid "WordPress Core"
+msgstr ""
+
+#: core/admin/Settings.php:423
+#: core/admin/Settings.php:490
+#: core/admin/Settings.php:556
+msgid "404"
+msgstr ""
+
+#: core/admin/Settings.php:424
+#: core/admin/Settings.php:491
+#: core/admin/Settings.php:557
+#: core/admin/Settings.php:755
+#: core/admin/Settings.php:771
+#: core/admin/Settings.php:788
+msgid "Search"
+msgstr ""
+
+#: core/admin/Settings.php:425
+#: core/admin/Settings.php:492
+#: core/admin/Settings.php:558
+msgid "Archives"
+msgstr ""
+
+#: core/admin/Settings.php:426
+#: core/admin/Settings.php:493
+#: core/admin/Settings.php:559
+#: core/admin/Settings.php:612
+msgid "Date Archives"
+msgstr ""
+
+#: core/admin/Settings.php:427
+#: core/admin/Settings.php:494
+#: core/admin/Settings.php:560
+#: core/admin/Settings.php:620
+msgid "Author Archives"
+msgstr ""
+
+#: core/admin/Settings.php:433
+#: core/admin/Settings.php:500
+#: core/admin/Settings.php:566
+msgid "Post Types Singular"
+msgstr ""
+
+#: core/admin/Settings.php:444
+#: core/admin/Settings.php:511
+#: core/admin/Settings.php:577
+msgid "Post Types Archive"
+msgstr ""
+
+#: core/admin/Settings.php:455
+msgid "Taxonomies Archive"
+msgstr ""
+
+#: core/admin/Settings.php:475
+msgid "Home Page"
+msgstr ""
+
+#: core/admin/Settings.php:475
+#: core/admin/Settings.php:476
+#: core/admin/Settings.php:477
+#: core/admin/Settings.php:490
+#: core/admin/Settings.php:491
+#: core/admin/Settings.php:492
+#: core/admin/Settings.php:493
+#: core/admin/Settings.php:494
+#: core/admin/Settings.php:543
+#: core/admin/Settings.php:556
+#: core/admin/Settings.php:557
+#: core/admin/Settings.php:558
+#: core/admin/Settings.php:559
+#: core/admin/Settings.php:560
+#: core/admin/Settings.php:641
+#: core/admin/Settings.php:642
+#: core/admin/Settings.php:647
+#: core/admin/Settings.php:648
+#: core/admin/Settings.php:681
+#: core/admin/Settings.php:682
+#: core/admin/Settings.php:771
+#: core/admin/Settings.php:772
+#: core/admin/Settings.php:773
+#: core/admin/Settings.php:774
+#: core/admin/Settings.php:788
+#: core/admin/Settings.php:789
+#: core/admin/Settings.php:790
+#: core/admin/Settings.php:791
+#: core/admin/Settings.php:845
+#: core/admin/Settings.php:846
+#: core/admin/Settings.php:860
+#: core/admin/Settings.php:861
+msgid "Default"
+msgstr ""
+
+#: core/admin/Settings.php:476
+msgid "Front Page"
+msgstr ""
+
+#: core/admin/Settings.php:522
+#: core/admin/Settings.php:588
+msgid "Taxonomies Archives"
+msgstr ""
+
+#: core/admin/Settings.php:542
+msgid "Home/Front Page"
+msgstr ""
+
+#: core/admin/Settings.php:542
+msgid "Default depends on the settings from Controls panel."
+msgstr ""
+
+#: core/admin/Settings.php:601
+msgid "Post Types"
+msgstr ""
+
+#: core/admin/Settings.php:605
+msgid "Taxonomies"
+msgstr ""
+
+#: core/admin/Settings.php:609
+msgid "Additional"
+msgstr ""
+
+#: core/admin/Settings.php:616
+#: core/admin/Settings.php:624
+#: core/admin/Settings.php:661
+#: core/admin/Settings.php:691
+msgid "Posts page"
+msgstr ""
+
+#: core/admin/Settings.php:616
+#: core/admin/Settings.php:624
+#: core/admin/Settings.php:661
+#: core/admin/Settings.php:691
+msgid "Path will be expanded with the Posts page."
+msgstr ""
+
+#: core/admin/Settings.php:634
+msgid "Post Type Name"
+msgstr ""
+
+#: core/admin/Settings.php:635
+#: core/admin/Settings.php:675
+msgid "Full hierarchy"
+msgstr ""
+
+#: core/admin/Settings.php:636
+#: core/admin/Settings.php:676
+msgid "Direct parent only"
+msgstr ""
+
+#: core/admin/Settings.php:637
+#: core/admin/Settings.php:677
+msgid "No hierarchy"
+msgstr ""
+
+#: core/admin/Settings.php:653
+#: core/admin/Settings.php:687
+msgid "Path"
+msgstr ""
+
+#: core/admin/Settings.php:657
+msgid "Taxonomy"
+msgstr ""
+
+#: core/admin/Settings.php:674
+msgid "Taxonomy Name"
+msgstr ""
+
+#: core/admin/Settings.php:693
+#: core/admin/Settings.php:1183
+msgid "Post Type Archive"
+msgstr ""
+
+#: core/admin/Settings.php:693
+msgid "Include post type archive as the first crumb."
+msgstr ""
+
+#: core/admin/Settings.php:706
+msgid "bbPress Breadcrumbs"
+msgstr ""
+
+#: core/admin/Settings.php:709
+msgid "Forums Root"
+msgstr ""
+
+#: core/admin/Settings.php:713
+msgid "If empty, default value 'Forums' will be used."
+msgstr ""
+
+#: core/admin/Settings.php:717
+#: core/admin/Settings.php:904
+msgid "Root crumb display"
+msgstr ""
+
+#: core/admin/Settings.php:721
+#: core/admin/Settings.php:908
+msgid "Root"
+msgstr ""
+
+#: core/admin/Settings.php:754
+#: core/admin/Settings.php:879
+msgid "Profiles"
+msgstr ""
+
+#: core/admin/Settings.php:756
+#: core/admin/Settings.php:773
+#: core/admin/Settings.php:790
+msgid "Topic Views"
+msgstr ""
+
+#: core/admin/Settings.php:757
+#: core/admin/Settings.php:774
+#: core/admin/Settings.php:791
+msgid "Topic Tags"
+msgstr ""
+
+#: core/admin/Settings.php:772
+#: core/admin/Settings.php:789
+msgid "Search Results"
+msgstr ""
+
+#: core/admin/Settings.php:799
+msgid "GD Topic Prefix"
+msgstr ""
+
+#: core/admin/Settings.php:806
+msgid "Topic Prefix"
+msgstr ""
+
+#: core/admin/Settings.php:815
+msgid "User Profiles"
+msgstr ""
+
+#: core/admin/Settings.php:819
+msgid "With Directory Crumb"
+msgstr ""
+
+#: core/admin/Settings.php:824
+#: core/admin/Settings.php:838
+#: core/admin/Settings.php:853
+msgid "GD Members Directory"
+msgstr ""
+
+#: core/admin/Settings.php:831
+msgid "Directory"
+msgstr ""
+
+#: core/admin/Settings.php:845
+#: core/admin/Settings.php:860
+msgid "Directory Page"
+msgstr ""
+
+#: core/admin/Settings.php:846
+#: core/admin/Settings.php:861
+msgid "Directory Crumb for Profiles"
+msgstr ""
+
+#: core/admin/Settings.php:871
+msgid "BuddyPress"
+msgstr ""
+
+#: core/admin/Settings.php:878
+msgid "Members"
+msgstr ""
+
+#: core/admin/Settings.php:880
+msgid "Activity"
+msgstr ""
+
+#: core/admin/Settings.php:881
+msgid "Groups"
+msgstr ""
+
+#: core/admin/Settings.php:882
+msgid "Group"
+msgstr ""
+
+#: core/admin/Settings.php:883
+msgid "Create Group"
+msgstr ""
+
+#: core/admin/Settings.php:892
+msgid "WooCommerce Breadcrumbs"
+msgstr ""
+
+#: core/admin/Settings.php:895
+#: core/admin/Settings.php:1153
+msgid "Store"
+msgstr ""
+
+#: core/admin/Settings.php:899
+msgid "Show Store breadcrumb"
+msgstr ""
+
+#: core/admin/Settings.php:900
+msgid "If empty, default value 'Store' will be used."
+msgstr ""
+
+#: core/admin/Settings.php:941
+msgid "Accounts"
+msgstr ""
+
+#: core/admin/Settings.php:983
+msgid "Do not include"
+msgstr ""
+
+#: core/admin/Settings.php:1000
+msgid "Header Bottom"
+msgstr ""
+
+#: core/admin/Settings.php:1001
+msgid "Content Before"
+msgstr ""
+
+#: core/admin/Settings.php:1002
+#: core/admin/Settings.php:1021
+msgid "Content Top"
+msgstr ""
+
+#: core/admin/Settings.php:1003
+msgid "Footer Before"
+msgstr ""
+
+#: core/admin/Settings.php:1004
+msgid "Footer Top"
+msgstr ""
+
+#: core/admin/Settings.php:1010
+msgid "Before Content Sidebar Wrap"
+msgstr ""
+
+#: core/admin/Settings.php:1011
+#: core/admin/Settings.php:1020
+#: core/admin/Settings.php:1032
+msgid "Before Content"
+msgstr ""
+
+#: core/admin/Settings.php:1012
+msgid "Before Loop"
+msgstr ""
+
+#: core/admin/Settings.php:1013
+msgid "After Content Sidebar Wrap"
+msgstr ""
+
+#: core/admin/Settings.php:1014
+msgid "Before Footer"
+msgstr ""
+
+#: core/admin/Settings.php:1022
+msgid "Content Bottom"
+msgstr ""
+
+#: core/admin/Settings.php:1023
+#: core/admin/Settings.php:1035
+msgid "After Content"
+msgstr ""
+
+#: core/admin/Settings.php:1029
+msgid "Before Main"
+msgstr ""
+
+#: core/admin/Settings.php:1030
+msgid "Page Header Top"
+msgstr ""
+
+#: core/admin/Settings.php:1031
+msgid "Page Header Bottom"
+msgstr ""
+
+#: core/admin/Settings.php:1033
+msgid "Before Primary"
+msgstr ""
+
+#: core/admin/Settings.php:1034
+msgid "After Primary"
+msgstr ""
+
+#: core/admin/Settings.php:1041
+#: core/admin/Settings.php:1050
+#: core/admin/Settings.php:1061
+msgid "After the Header"
+msgstr ""
+
+#: core/admin/Settings.php:1042
+msgid "Top of the Site Container"
+msgstr ""
+
+#: core/admin/Settings.php:1043
+msgid "Before the Footer Container"
+msgstr ""
+
+#: core/admin/Settings.php:1044
+msgid "After the Footer Widgets"
+msgstr ""
+
+#: core/admin/Settings.php:1051
+msgid "Before the Content"
+msgstr ""
+
+#: core/admin/Settings.php:1052
+msgid "Top of the Content"
+msgstr ""
+
+#: core/admin/Settings.php:1053
+msgid "Bottom of the Content"
+msgstr ""
+
+#: core/admin/Settings.php:1054
+msgid "After the Content"
+msgstr ""
+
+#: core/admin/Settings.php:1055
+msgid "Before the Footer"
+msgstr ""
+
+#: core/admin/Settings.php:1062
+msgid "Top of the Inner Wrap"
+msgstr ""
+
+#: core/admin/Settings.php:1063
+msgid "Before the Main Content"
+msgstr ""
+
+#: core/admin/Settings.php:1064
+msgid "Bottom of the Inner Wrap"
+msgstr ""
+
+#: core/admin/Settings.php:1065
+msgid "Before the Header"
+msgstr ""
+
+#: core/admin/Settings.php:1071
+msgid "Manual integration only"
+msgstr ""
+
+#: core/admin/Settings.php:1072
+#: forms/content-dashboard-integration.php:8
+msgid "Hook to specified action"
+msgstr ""
+
+#: core/admin/Settings.php:1073
+#: forms/content-dashboard-integration.php:9
+msgid "Automatic theme integration"
+msgstr ""
+
+#: core/admin/Settings.php:1074
+#: forms/content-dashboard-integration.php:10
+msgid "Integration with supported themes"
+msgstr ""
+
+#: core/admin/Settings.php:1083
+#: core/admin/Settings.php:1124
+msgid "None"
+msgstr ""
+
+#: core/admin/Settings.php:1084
+msgid "Empty Tag"
+msgstr ""
+
+#: core/admin/Settings.php:1090
+msgid "Crumb"
+msgstr ""
+
+#: core/admin/Settings.php:1091
+msgid "Double Crumb"
+msgstr ""
+
+#: core/admin/Settings.php:1092
+#: core/admin/Settings.php:1101
+msgid "Angle"
+msgstr ""
+
+#: core/admin/Settings.php:1093
+#: core/admin/Settings.php:1102
+msgid "Double Angle"
+msgstr ""
+
+#: core/admin/Settings.php:1094
+msgid "Chevron"
+msgstr ""
+
+#: core/admin/Settings.php:1095
+msgid "Double Chevron"
+msgstr ""
+
+#: core/admin/Settings.php:1103
+msgid "Bullet"
+msgstr ""
+
+#: core/admin/Settings.php:1109
+#: core/admin/Settings.php:1122
+msgid "Initial"
+msgstr ""
+
+#: core/admin/Settings.php:1110
+#: core/admin/Settings.php:1123
+msgid "Inherit"
+msgstr ""
+
+#: core/admin/Settings.php:1111
+msgid "Left"
+msgstr ""
+
+#: core/admin/Settings.php:1112
+msgid "Center"
+msgstr ""
+
+#: core/admin/Settings.php:1113
+msgid "Right"
+msgstr ""
+
+#: core/admin/Settings.php:1114
+msgid "Space Evenly"
+msgstr ""
+
+#: core/admin/Settings.php:1115
+msgid "Space Between"
+msgstr ""
+
+#: core/admin/Settings.php:1116
+msgid "Space Around"
+msgstr ""
+
+#: core/admin/Settings.php:1125
+msgid "Underline"
+msgstr ""
+
+#: core/admin/Settings.php:1126
+msgid "Overline"
+msgstr ""
+
+#: core/admin/Settings.php:1132
+msgid "Do nothing"
+msgstr ""
+
+#: core/admin/Settings.php:1133
+msgid "First letter upper case"
+msgstr ""
+
+#: core/admin/Settings.php:1134
+msgid "All words first letter upper case"
+msgstr ""
+
+#: core/admin/Settings.php:1135
+msgid "Everything to lower case"
+msgstr ""
+
+#: core/admin/Settings.php:1136
+msgid "Everything to upper case"
+msgstr ""
+
+#: core/admin/Settings.php:1150
+msgid "Home Alt"
+msgstr ""
+
+#: core/admin/Settings.php:1151
+msgid "Home Light"
+msgstr ""
+
+#: core/admin/Settings.php:1152
+msgid "Home Light Alt"
+msgstr ""
+
+#: core/admin/Settings.php:1154
+msgid "Store Alt"
+msgstr ""
+
+#: core/admin/Settings.php:1155
+msgid "Store Light"
+msgstr ""
+
+#: core/admin/Settings.php:1156
+msgid "Store Light Alt"
+msgstr ""
+
+#: core/admin/Settings.php:1157
+msgid "Book"
+msgstr ""
+
+#: core/admin/Settings.php:1158
+msgid "Book Light"
+msgstr ""
+
+#: core/admin/Settings.php:1159
+msgid "Forums"
+msgstr ""
+
+#: core/admin/Settings.php:1165
+#: core/admin/Settings.php:1170
+msgid "Just the Post"
+msgstr ""
+
+#: core/admin/Settings.php:1171
+msgid "Author"
+msgstr ""
+
+#: core/admin/Settings.php:1172
+#: core/admin/Settings.php:1187
+msgid "Taxonomy Term"
+msgstr ""
+
+#: core/admin/Settings.php:1173
+msgid "Full Date"
+msgstr ""
+
+#: core/admin/Settings.php:1174
+msgid "Month and Year"
+msgstr ""
+
+#: core/admin/Settings.php:1175
+msgid "Year"
+msgstr ""
+
+#: core/admin/Settings.php:1191
+msgid "Post Type Archive with Taxonomy Term"
+msgstr ""
+
+#: core/admin/Settings.php:1195
+msgid "Parent Post"
+msgstr ""
+
+#: core/admin/Settings.php:1206
+msgid "Just the Term"
+msgstr ""
+
+#: core/admin/Settings.php:1209
+msgid "Taxonomy archive"
+msgstr ""
+
+#: core/basic/Helper.php:28
+msgctxt "Unknown User title"
+msgid "Unknown"
+msgstr ""
+
+#: core/basic/Plugin.php:258
+msgid "Astra"
+msgstr ""
+
+#: core/basic/Plugin.php:259
+msgid "Blocky"
+msgstr ""
+
+#: core/basic/Plugin.php:260
+msgid "GeneratePress"
+msgstr ""
+
+#: core/basic/Plugin.php:261
+msgid "Genesis"
+msgstr ""
+
+#: core/basic/Plugin.php:262
+msgid "OceanWP"
+msgstr ""
+
+#: core/basic/Plugin.php:263
+msgid "Kadence"
+msgstr ""
+
+#: core/basic/Plugin.php:264
+msgid "Storefront"
+msgstr ""
+
+#: core/basic/Settings.php:205
+msgctxt "Title for the Home page"
+msgid "Home"
+msgstr ""
+
+#: core/basic/Settings.php:206
+msgctxt "Title for the bbPress main Forums page"
+msgid "Forums"
+msgstr ""
+
+#: core/basic/Settings.php:207
+msgctxt "Title for the WooCommerce main page"
+msgid "Store"
+msgstr ""
+
+#: core/basic/Settings.php:211
+msgctxt "Title for Posts page"
+msgid "%value%"
+msgstr ""
+
+#: core/basic/Settings.php:212
+msgctxt "Title for 404 pages"
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: core/basic/Settings.php:213
+msgctxt "Title for Search Results pages"
+msgid "Search results for '%value%'"
+msgstr ""
+
+#: core/basic/Settings.php:214
+msgctxt "Title for Archive pages"
+msgid "Archives"
+msgstr ""
+
+#: core/basic/Settings.php:215
+msgctxt "Title for Various archive pages"
+msgid "Archives for '%value%'"
+msgstr ""
+
+#: core/basic/Settings.php:216
+msgctxt "Title for Date archives pages"
+msgid "Archives for '%value%'"
+msgstr ""
+
+#: core/basic/Settings.php:217
+msgctxt "Title for Author archives pages"
+msgid "Archives for '%value%'"
+msgstr ""
+
+#: core/basic/Settings.php:218
+msgctxt "Title for WooCommerce Cart page"
+msgid "%value%"
+msgstr ""
+
+#: core/basic/Settings.php:219
+msgctxt "Title for WooCommerce Checkout page"
+msgid "%value%"
+msgstr ""
+
+#: core/basic/Settings.php:220
+msgctxt "Title for BuddyPress Groups Directory page"
+msgid "Groups Directory"
+msgstr ""
+
+#: core/basic/Settings.php:221
+msgctxt "Title for BuddyPress Groups crumb for Group page"
+msgid "Groups"
+msgstr ""
+
+#: core/basic/Settings.php:222
+msgctxt "Title for BuddyPress New Group Create page"
+msgid "Create A New Group"
+msgstr ""
+
+#: core/basic/Settings.php:223
+msgctxt "Title for BuddyPress Group page"
+msgid "%value%"
+msgstr ""
+
+#: core/basic/Settings.php:224
+msgctxt "Title for BuddyPress Members Directory page"
+msgid "Members Directory"
+msgstr ""
+
+#: core/basic/Settings.php:225
+#: core/basic/Settings.php:232
+msgctxt "Title for bbPress Members Directory crumb for Profile pages"
+msgid "Members"
+msgstr ""
+
+#: core/basic/Settings.php:226
+msgctxt "Title for BuddyPress Activity Directory page"
+msgid "Recent Activity"
+msgstr ""
+
+#: core/basic/Settings.php:227
+msgctxt "Title for bbPress Search page"
+msgid "Search"
+msgstr ""
+
+#: core/basic/Settings.php:228
+msgctxt "Title for bbPress Search Results pages"
+msgid "Search results for '%value%'"
+msgstr ""
+
+#: core/basic/Settings.php:229
+msgctxt "Title for bbPress Topic Views pages"
+msgid "%value%"
+msgstr ""
+
+#: core/basic/Settings.php:230
+msgctxt "Title for Topic Tags Crumb"
+msgid "%tax%: %value%"
+msgstr ""
+
+#: core/basic/Settings.php:231
+msgctxt "Title for bbPress Members Directory page"
+msgid "Members Directory"
+msgstr ""
+
+#: core/basic/Settings.php:233
+msgctxt "Title for GD Knowledge Base Search Results pages"
+msgid "Search results for '%value%'"
+msgstr ""
+
+#: core/basic/Settings.php:240
+msgctxt "Title for Single Posts pages"
+msgid "Attachment: %value%"
+msgstr ""
+
+#: core/basic/Settings.php:241
+msgctxt "Title for Posts Archives pages"
+msgid "Archive for '%value%'"
+msgstr ""
+
+#: core/basic/Settings.php:273
+msgctxt "Title for bbPress related Taxonomy Archives pages"
+msgid "List of topics with '%value%' %tax%"
+msgstr ""
+
+#: core/basic/Settings.php:279
+msgctxt "Title for WooCommerce related Taxonomy Archives pages"
+msgid "Products with '%value%' %tax%"
+msgstr ""
+
+#: core/basic/Settings.php:281
+msgctxt "Title for Taxonomy Archives pages"
+msgid "Archives for '%value%' %tax%"
+msgstr ""
+
+#: core/basic/Shortcodes.php:27
+msgid "Current Breadcrumbs"
+msgstr ""
+
+#: core/basic/Shortcodes.php:38
+msgid "Breadcrumbs for Post"
+msgstr ""
+
+#: core/basic/Shortcodes.php:52
+msgid "Breadcrumbs for Term"
+msgstr ""
+
+#: core/blocks/Register.php:72
+msgid "Breadcrumbs can't be rendered in this context."
+msgstr ""
+
+#: core/expand/bbPress.php:170
+#: core/expand/bbPress.php:200
+#: core/expand/bbPress.php:230
+#: core/expand/bbPress.php:343
+#: core/expand/bbPress.php:419
+msgid "Edit"
+msgstr ""
+
+#: core/expand/bbPress.php:327
+msgid "Topics Started"
+msgstr ""
+
+#: core/expand/bbPress.php:335
+msgid "Replies Created"
+msgstr ""
+
+#: core/expand/bbPress.php:351
+msgid "Engagements"
+msgstr ""
+
+#: core/expand/bbPress.php:359
+msgid "Subscriptions"
+msgstr ""
+
+#: core/expand/bbPress.php:367
+msgid "Favorites"
+msgstr ""
+
+#: forms/content-about-examples.php:17
+msgid "Latest Blog Post"
+msgstr ""
+
+#: forms/content-about-examples.php:32
+msgid "Random Page"
+msgstr ""
+
+#: forms/content-about-examples.php:48
+msgid "Random Category"
+msgstr ""
+
+#: forms/content-about-minor.php:7
+msgid "Maintenance and Security Releases"
+msgstr ""
+
+#: forms/content-about-minor.php:9
+#: forms/content-about-minor.php:13
+msgid "Version"
+msgstr ""
+
+#: forms/content-about-minor.php:17
+msgid "For more information, see <a href='%s'>the changelog</a>."
+msgstr ""
+
+#: forms/content-about-whatsnew.php:22
+msgid "Here are few real examples for breadcrumbs on this website default styling settings and based on the existing content, both terms and posts."
+msgstr ""
+
+#: forms/content-dashboard-integration.php:2
+msgid "Breadcrumbs Integration"
+msgstr ""
+
+#: forms/content-dashboard-integration.php:24
+msgid "Currently active theme"
+msgstr ""
+
+#: forms/content-dashboard-integration.php:27
+msgid "Current integration method"
+msgstr ""
+
+#: forms/content-dashboard-integration.php:29
+msgid "Change Integration Settings"
+msgstr ""
+
+#: forms/content-dashboard-integration.php:31
+msgid "Manual integration code"
+msgstr ""
+
+#: forms/content-dashboard-integration.php:32
+msgid "This is the basic PHP code block that will produce the breadcrumbs on the current front-end page, based on the plugin settings. This code has to be placed inside the theme template."
+msgstr ""
+
+#: forms/content-dashboard-integration.php:37
+msgid "Shortcode integration code"
+msgstr ""
+
+#: forms/content-dashboard-integration.php:38
+msgid "This is the basic shortcode that is equal to the PHP code displayed above."
+msgstr ""
+
+#: forms/content-dashboard-integration.php:7
+msgid "Manual integration"
+msgstr ""
+
+#: forms/content-dashboard-integration.php:18
+msgid "This theme is supported by the BreadcrumbsPress plugin for automatic integration."
+msgstr ""
+
+#: forms/content-dashboard-integration.php:25
+msgid "You are currently using theme %s."
+msgstr ""
+
+#: forms/content-dashboard-integration.php:28
+msgid "Plugin is currently set for %s."
+msgstr ""
+
+#: forms/content-dashboard-notices.php:2
+msgid "Important Notices"
+msgstr ""
+
+#: forms/content-dashboard-notices.php:4
+msgid "There are few things you need to know about the integration process, and limitations to automatic integration.."
+msgstr ""
+
+#: forms/content-dashboard-notices.php:6
+msgid "Each theme is different, and there is no universal way to automatically add breadcrumbs code to every theme, and for 90% of the themes, manual integration is the only way to go."
+msgstr ""
+
+#: forms/content-dashboard-notices.php:7
+msgid "The position of the breadcrumbs in the theme templates depends on the theme, and that requires some understanding of HTML layout theme has and where the breadcrumbs should be added."
+msgstr ""
+
+#: forms/content-dashboard-notices.php:8
+msgid "For most themes, it is possible to add breadcrumbs integration code once, into the 'header.php' file. Again, where exactly in that file, depends on the theme."
+msgstr ""
+
+#: forms/content-dashboard-notices.php:9
+msgid "For some themes, based on the developer's friendly frameworks, the plugin can add breadcrumbs automatically without the need for making changes to theme templates."
+msgstr ""
+
+#: forms/content-dashboard-status.php:14
+msgid "Plugin Status"
+msgstr ""
+
+#: forms/content-dashboard-status.php:8
+msgid "OK"
+msgstr ""
+
+#: forms/content-dashboard-status.php:8
+msgid "Problem"
+msgstr ""
+
+#: forms/content-dashboard-status.php:9
+msgid "Everything appears to be in order."
+msgstr ""
+
+#: forms/content-dashboard-status.php:9
+msgid "Breadcrumbs are not displaying on your website."
+msgstr ""
+
+#: forms/content-dashboard-status.php:9
+msgid "Breadcrumbs have not been displayed for days."
+msgstr ""
+
+#: forms/content-install.php:18
+#: forms/content-update.php:18
+msgid "All Done"
+msgstr ""
+
+#: forms/content-install.php:21
+msgid "Installation completed."
+msgstr ""
+
+#: forms/content-install.php:26
+#: forms/content-update.php:26
+msgid "Click here to continue"
+msgstr ""
+
+#: forms/content-tools-export.php:8
+#: forms/content-tools-remove.php:8
+msgid "Important Information"
+msgstr ""
+
+#: forms/content-tools-export.php:10
+msgid "With this tool you export plugin settings into plain text file (JSON serialized content). Do not modify export file! Making changes to export file will make it unusable."
+msgstr ""
+
+#: forms/content-tools-remove.php:10
+msgid "This tool can remove plugin settings saved in the WordPress options table added by the plugin."
+msgstr ""
+
+#: forms/content-tools-remove.php:11
+msgid "All the settings added by this plugin are limited to WordPress options table."
+msgstr ""
+
+#: forms/content-tools-remove.php:13
+msgid "Deletion operations are not reversible, and it is highly recommended to create database backup before proceeding with this tool."
+msgstr ""
+
+#: forms/content-tools-remove.php:14
+msgid "If you choose to remove plugin settings, once that is done, all settings will be reinitialized to default values if you choose to leave plugin active."
+msgstr ""
+
+#: forms/content-tools-remove.php:19
+msgid "Remove plugin settings"
+msgstr ""
+
+#: forms/content-tools-remove.php:22
+msgid "All Plugin Settings"
+msgstr ""
+
+#: forms/content-tools-remove.php:28
+msgid "Disable Plugin"
+msgstr ""
+
+#: forms/content-tools-remove.php:31
+msgid "Disable plugin"
+msgstr ""
+
+#: forms/content-update.php:21
+msgid "Update completed."
+msgstr ""
+
+#: node_modules/@wordpress/style-engine/class-wp-style-engine-processor.php:44
+msgid "$store must be an instance of WP_Style_Engine_CSS_Rules_Store"
+msgstr ""
+

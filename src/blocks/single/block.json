@@ -1,0 +1,37 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "breadcrumbspress/single",
+  "category": "widgets",
+  "title": "Breadcrumbs",
+  "description": "Display breadcrumbspress for the current post or page.",
+  "textdomain": "breadcrumbspress",
+  "version": "1.0",
+  "supports": {
+    "customClassName": false
+  },
+  "usesContext": [
+    "postId"
+  ],
+  "attributes": {
+    "class": {
+      "type": "string",
+      "default": ""
+    },
+    "block_id": {
+      "type": "string",
+      "default": ""
+    },
+    "align": {
+      "type": "string",
+      "default": "none"
+    },
+    "font_size": {
+      "type": "integer",
+      "default": 14
+    }
+  },
+  "editorScript": "breadcrumbspress-editor",
+  "editorStyle": "breadcrumbspress-editor",
+  "style": "breadcrumbspress"
+}
